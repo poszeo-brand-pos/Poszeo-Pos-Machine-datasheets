@@ -10,7 +10,8 @@ For full specs & quotations (ODM available): **https://poszeo.com/products
 ## Quick Download Index
 | Model | PDF | Product Page |
 
-| DK-56D (Commercial POS System) |Poszeo DK-56D-Commercial POS System-EN-V1-2-202503.pdf| https://www.poszeo.com/product/dk-56d-commercial-pos-system/ |
+| DK-56D (Commercial POS System) |[Download PDF](./Poszeo%20DK-56D-Commercial%20POS%20System-EN-V1-2-202503.pdf?raw=1)
+| https://www.poszeo.com/product/dk-56d-commercial-pos-system/ |
 
 
 
