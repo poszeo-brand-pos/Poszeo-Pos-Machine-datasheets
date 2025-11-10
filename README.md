@@ -1,4 +1,4 @@
-# POSZEO POS Systems Datasheets (EN, PDF)
+## POSZEO POS Systems Datasheets (EN, PDF)
 
 Official English datasheets for POSZEO POS machines: desktop POS, dual-screen POS, self-service kiosks, POS scales.  
 For full specs & quotations (ODM available): **https://poszeo.com/products
@@ -11,5 +11,13 @@ For full specs & quotations (ODM available): **https://poszeo.com/products
 | Model | PDF | Product Page |
 
 | DK-56D (Commercial POS System) | [`/pdf/POSZEO_DK-56D_Datasheet_EN_V1_202503.pdf`](./pdf/POSZEO_DK-56D_Datasheet_EN_V1_202503.pdf) | https://www.poszeo.com/product/dk-56d-commercial-pos-system/ |
+
+
+
+
+
+## Contact & Support
+- Sales: sales@poszeo.com
+- Support: https://poszeo.com/service/support
 
 
